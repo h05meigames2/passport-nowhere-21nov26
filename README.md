@@ -1,6 +1,8 @@
 # passport-nowhere-21nov26
 
 [![make.fun · the-passport-page-of-a-countr-2-20261121-0318](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+[![rank](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/h05meigames2/passport-nowhere-21nov26/rank.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
+[![reward](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/h05meigames2/passport-nowhere-21nov26/reward.svg)](https://make.fun/bounty/the-passport-page-of-a-countr-2-20261121-0318?utm_source=github&utm_medium=readme&utm_campaign=the-passport-page-of-a-countr-2-20261121-0318)
 
 An invented passport spread for a country that isn't there: the **Republic of
 Thalvern**, a high-altitude archipelago whose islands rise above the cloud
